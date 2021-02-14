@@ -31,6 +31,8 @@ smoot.apple.com
 api.apple-cloudkit.com
 apple-cloudkit.com
 time.euro.apple.com
+configuration.apple.com
+safebrowsing.googleapis.com
 *.icloud.com
 *.icloud-content.com
 *.mzstatic.com
