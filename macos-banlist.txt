@@ -33,6 +33,7 @@ apple-cloudkit.com
 time.euro.apple.com
 configuration.apple.com
 safebrowsing.googleapis.com
+init.ess.apple.com
 *.icloud.com
 *.icloud-content.com
 *.mzstatic.com
